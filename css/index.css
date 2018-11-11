@@ -1,0 +1,22 @@
+.plugin-li {
+  margin-bottom: 8px !important;
+}
+
+.plugin-input {
+  display: block;
+  color: #575757;
+  background-color: #fff;
+  border: 1px solid #e5e5ea;
+  border-radius: 6px;
+  height: 28px;
+  padding: 5px 8px;
+  font-size: 14px;
+  line-height: 18px;
+  box-sizing: border-box;
+  margin: 0 30px;
+  width: 185px;
+}
+
+.plugin-input:focus {
+  outline: none;
+}
